@@ -1,0 +1,23 @@
+Title = "{spsbibtex}"
+
+@techreport{featureselection, 
+author = "Matthew Shardlow", 
+Title = {An Analysis of Feature Selection Techniques}, 
+institution = {University of Manchester},
+publisher = "n/a", 
+YEAR = 2013, 
+url = {http://web.archive.org/web/20080207010024/http://www.808multimedia.com/winnt/kernel.htm},
+type = {Report}
+} 
+
+@online{mahalanobis, 
+author = "Stephanie", 
+Title = {What is the Mahalanobis distance?}, 
+publisher = "n/a", 
+YEAR = 2017, 
+url = {http://syllabus.cs.manchester.ac.uk/pgt/2017/COMP61011/goodProjects/Shardlow.pdf},
+} 
+
+
+
+
